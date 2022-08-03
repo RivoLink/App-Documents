@@ -1,4 +1,4 @@
-## Build a React Native debug apk on Windows
+## Generate a React Native debug on Windows
 
 ### Create assets folder
 ```sh

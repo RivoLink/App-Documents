@@ -1,4 +1,4 @@
-## Build a React Native release apk on Windows
+## Generate a React Native bundle on Windows
 
 ### Generate keystore file
 You can change `your_key_name` and `your_key_alias` with any name you want.  
